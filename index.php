@@ -3,7 +3,7 @@ session_start();
 
 // Predefined recipients
 $recipients = [
-    "0781111111" => "Ange Uwimana",
+    "0781111111" => "Ange Uwimana kamanzi",
     "0782222222" => "Bruno Kamanzi",
     "0783333333" => "Clara Niyonzima",
     "0784444444" => "Jean Paul Mugisha",
